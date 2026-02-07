@@ -15,3 +15,8 @@ categories: projects
   
 ![Class Distribution](https://lizsyeo.github.io/assets/images/class_dist.png)
 
+📓 [View Notebook (nbviewer)](
+https://nbviewer.org/github/lizsyeo/credit_card_fraud/blob/main/credit_card_fraud_code.ipynb
+)
+
+💻 [GitHub Repo](https://github.com/lizsyeo/credit_card_fraud)
